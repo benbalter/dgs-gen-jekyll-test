@@ -1,0 +1,7 @@
+---
+name: Federal Deposit Insurance Corporation
+id: FDIC
+layout: json
+index: agency
+homepage: http://www.fdic.gov
+---

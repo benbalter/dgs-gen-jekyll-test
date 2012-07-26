@@ -1,0 +1,7 @@
+---
+name: Securities and Exchange Commission
+id: SEC
+layout: json
+index: agency
+homepage: http://www.sec.gov
+---

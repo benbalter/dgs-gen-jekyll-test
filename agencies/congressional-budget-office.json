@@ -1,0 +1,7 @@
+---
+name: Congressional Budget Office
+id: CBO
+layout: json
+index: agency
+homepage: http://www.cbo.gov
+---

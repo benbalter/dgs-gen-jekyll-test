@@ -1,0 +1,7 @@
+---
+name: Internal Revenue Service
+id: IRS
+layout: json
+index: agency
+homepage: http://www.irs.gov
+---

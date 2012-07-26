@@ -1,0 +1,1 @@
+{{ site.lcb }}"generated":"{{ site.time | date_to_xmlschema }}","api_version":"{{ site.api_version }}","{{page.index}}":[{% for page in site.pages %}{% include json %}{% if forloop.last %}{% else %},{% endif %}{% endfor %}]{{ site.rcb }}

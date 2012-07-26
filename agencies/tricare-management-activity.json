@@ -1,0 +1,7 @@
+---
+name: TRICARE Management Activity
+id:
+layout: json
+index: agency
+homepage: http://www.tricare.mil/tma/
+---

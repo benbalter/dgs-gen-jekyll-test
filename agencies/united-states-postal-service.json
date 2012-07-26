@@ -1,0 +1,7 @@
+---
+name: United States Postal Service
+id: USPS
+layout: json
+index: agency
+homepage: http://www.usps.com
+---

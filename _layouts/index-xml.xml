@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<{{ page.index }}>{% assign singular = page.singular %}
+	<generated>{{ site.time | date_to_xmlschema }}</generated>
+	<api_version>{{ site.api_version }}</api_version>
+	<{{ page.index }}>
+{% for page in site.pages %}{% include xml %}{% endfor %}	</{{ page.index }}>
+</{{ page.index }}>

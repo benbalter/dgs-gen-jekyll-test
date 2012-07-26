@@ -1,0 +1,7 @@
+---
+name: Department of Transportation
+id: DOT
+layout: json
+index: agency
+homepage: http://www.dot.gov
+---

@@ -1,0 +1,7 @@
+---
+name: Social Security Administration
+id: SSA
+layout: json
+index: agency
+homepage: http://www.ssa.gov
+---

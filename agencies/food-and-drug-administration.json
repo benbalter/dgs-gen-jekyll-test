@@ -1,0 +1,7 @@
+---
+name: Food and Drug Administration
+id:
+layout: json
+index: agency
+homepage: http://www.fda.gov/
+---

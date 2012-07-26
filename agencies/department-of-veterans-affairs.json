@@ -1,0 +1,7 @@
+---
+name: Department of Veterans Affairs
+id: VA
+layout: json
+index: agency
+homepage: http://www.va.gov
+---

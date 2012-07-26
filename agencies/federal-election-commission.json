@@ -1,0 +1,7 @@
+---
+name: Federal Election Commission
+id: FEC
+layout: json
+index: agency
+homepage: http://www.fec.gov
+---

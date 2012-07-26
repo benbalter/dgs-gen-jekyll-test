@@ -1,0 +1,7 @@
+---
+name: Library of Congress
+id: LOC
+layout: json
+index: agency
+homepage: http://www.libraryofcongress.gov
+---
